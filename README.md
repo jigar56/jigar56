@@ -26,7 +26,7 @@ My superpowers:
 💡 Want a sneak peek or to chat about my experience?
 📧 [Email me](mailto:jigarpatel260597@gmail.com)
 💼 [LinkedIn](https://www.linkedin.com/in/jigarkumar1703/)
-🌐 [Portfolio](https://cstopper56.github.io/profile/)
+🌐 [Portfolio](https://jigar56.github.io/profile/)
 🚀 [GitHub](#)
 
 ---
