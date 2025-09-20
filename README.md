@@ -1,57 +1,67 @@
-# Hi 👋, I'm Jigar Patel
+👋 Hi, I'm Jigar Patel
+I design and build scalable web experiences 🚀
 
-🚀 **Front-End Developer | Cloud-Native Web Apps | UI/UX Enthusiast**
-
-I’m a **Front-End Developer** with **4.5+ years of experience** building scalable, cloud-native, and high-performance web applications. Skilled in **React, Vue.js, Angular, and Next.js**, I love crafting responsive, accessible, and visually engaging user interfaces that deliver impact.
-
-Currently pursuing my **Master’s in Computer Science (Roosevelt University, Chicago)** while actively contributing to projects that blend **cutting-edge frontend technologies** with cloud ecosystems (**GCP, AWS, Azure**).
+From architecting **enterprise-scale cloud-native apps** to crafting **delightful, accessible UIs**, I turn code into impact.
 
 ---
 
-### 🔧 Tech Stack
+😎 **About Me**
+Front-End Developer with **4.5+ years of experience** building **high-performance, cloud-native, and accessible applications** across B2B SaaS, enterprise, and consumer platforms.
 
-* **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3, SASS/LESS
-* **Frameworks & Libraries:** React (Hooks, Redux), Next.js, Vue.js (Vuex), Angular, Nuxt.js
-* **Build & Deployment:** Webpack, Vite, Docker, GitHub Actions, Tekton
-* **Cloud-Native Frontend:** SSR/SSG, serverless, containerized apps, edge rendering
-* **APIs:** REST, GraphQL (Apollo), WebSockets
-* **Testing & CI/CD:** Jest, Cypress, Playwright, E2E Pipelines
-* **Performance & SEO:** Core Web Vitals, Lighthouse, Code Splitting, Lazy Loading
-* **Design & Accessibility:** Responsive Design, Figma/Adobe XD, WCAG 2.1, ARIA
-* **Data Visualization:** D3.js, Chart.js, Recharts, Plotly
+My superpowers:
 
----
+* Architecting **responsive, WCAG-compliant apps** used by thousands of users
+* Optimizing performance & Core Web Vitals → 95+ Lighthouse scores
+* Scaling SPAs & PWAs with **Next.js, React, and cloud-native deployments**
+* Designing & implementing **real-time dashboards** with D3.js, GraphQL, WebSockets
+* Leading teams with Agile practices and mentoring developers
 
-### 💼 Professional Experience
+💼 Companies I worked at
 
-**Frontend Developer @ Procore Technologies (2022–2023)**
+| Role               | Company                | Dates               |
+| ------------------ | ---------------------- | ------------------- |
+| Frontend Developer | Procore Technologies   | Jan 2022 – Jun 2023 |
+| Frontend Developer | Capillary Technologies | Jul 2018 – May 2021 |
 
-* Built **enterprise-grade SPAs & PWAs** with React, Next.js, and GCP Cloud Run.
-* Led development of **8+ responsive apps** with **98% accessibility compliance**.
-* Optimized SSR/SSG performance → **40% reduced latency & 95+ Lighthouse scores**.
-* Designed real-time EV analytics dashboards with React + D3.js for **5K+ users**.
-
-**Frontend Developer @ Capillary Technologies (2018–2021)**
-
-* Delivered **cross-platform responsive apps** using Vue.js & Angular.
-* Migrated legacy systems to **modern React/Tailwind CSS apps** → boosted efficiency by **45%**.
-* Developed **scalable e-commerce frontends** handling 10K+ daily users.
-* Implemented **data visualizations** with D3.js & Recharts for manufacturing KPIs.
+💡 Want a sneak peek or to chat about my experience?
+📧 [Email me](mailto:jigarpatel260597@gmail.com)
+💼 [LinkedIn](https://www.linkedin.com/in/jigarkumar1703/)
+🌐 [Portfolio](https://cstopper56.github.io/profile/)
+🚀 [GitHub](#)
 
 ---
 
-### 🎓 Education
+🚨 **Fun Fact: Performance Optimizer**
+I don’t just code apps—I **tune them like race cars**.
 
-* **M.S. Computer Science** — Roosevelt University, Chicago, IL *(May 2025)*
-* **B.E. Computer Engineering** — Gujarat Technological University, India *(2018)*
+* If it loads slow, I trim the payload.
+* If accessibility is off, I bring it back to 100%.
+* If a dashboard lags, I stream data in real time.
 
----
-
-### 📫 Connect With Me
-
-* 📧 Email: **[jigarpatel260597@gmail.com](mailto:jigarpatel260597@gmail.com)**
-* 💼 [LinkedIn](https://www.linkedin.com/in/jigarkumar1703/)
+Building for the web? Chances are, I’ve already optimized a similar challenge.
 
 ---
 
-⭐️ *“Passionate about clean, scalable code and delivering impactful digital experiences.”*
+🛠️ **My Full-Stack Frontend Toolkit**
+
+💻 **Tech Stack**
+JavaScript (ES6+) · TypeScript · React · Next.js · Vue.js · Angular · Nuxt.js · HTML5 · CSS3 · SASS/LESS
+
+☁️ **Cloud & Deployment**
+Docker · GitHub Actions · Tekton · GCP (Cloud Run, GKE) · AWS · Azure
+
+🗂️ **Frontend & Productivity Tools**
+Webpack · Vite · Storybook · Jest · Cypress · Playwright · Figma · Adobe XD
+
+📊 **Data Visualization**
+D3.js · Recharts · Chart.js · Plotly
+
+♿ **UX & Accessibility**
+Responsive Design · WCAG 2.1 · ARIA roles · Lighthouse Audits
+
+🚀 **Other Buzzwords**
+Agile · Scrum · CI/CD · Core Web Vitals · Serverless · Microfrontends · API Integration (REST, GraphQL, WebSockets)
+
+---
+
+✨ “Passionate about **building performant, accessible, and scalable apps** that drive measurable impact.” 🚀
